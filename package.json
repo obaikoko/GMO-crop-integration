@@ -1,0 +1,11 @@
+{
+  "name": "gmo-crop-integration",
+  "version": "1.0.0",
+  "description": "Integration a GMO Crop Database into Eco-Agric platform for farmers in Nigeria ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Group 14",
+  "license": "ISC"
+}
