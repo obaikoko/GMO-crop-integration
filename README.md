@@ -1,5 +1,6 @@
 # GMO Crop API
 
+
 This API provides endpoints to manage information about GMO crops, including their names, benefits, characteristics, regulations, etc. It utilizes the Mongoose library to interact with a MongoDB database.
 
 ## Installation
